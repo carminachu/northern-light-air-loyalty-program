@@ -1,8 +1,6 @@
 # ✈️ Northern Lights Air — Airline Loyalty Program Analysis
 
-[![Power BI](https://img.shields.io/badge/PowerBI-Desktop-blue)](https://powerbi.microsoft.com/)
-
-## TL;DR 📊
+## 📊 Project Overview
 Interactive **Power BI dashboard** analyzing the impact of a 2018 loyalty promotion for Northern Lights Air (NLA). Highlights campaign effectiveness, demographic adoption, and summer flight booking trends. Dataset is **fictional**.
 
 ---
@@ -72,13 +70,3 @@ Guided project by **Maven Analytics**: [Airline Loyalty Program Dataset](https:/
 - Implement predictive analytics for churn risk and campaign impact.  
 - Add real-time dashboard updates using live data sources or incremental refresh.  
 - Incorporate visualizations for loyalty tier transitions and multi-year trends.  
-
----
-
-## License 📄
-This project is open for **learning and demonstration** with attribution.  
-
----
-
-## Contact ✉️
-Created by: *Carmina Yu Chu*
