@@ -29,6 +29,10 @@ Interactive **Power BI dashboard** analyzing the impact of a 2018 loyalty promot
 - **Demographics:** Education, Gender, Marital Status, Province  
 - **Tooltip Pages:** Contextual details for Province  
 - **Smart Narrative:** Automatically generated insights  
+<img width="1435" height="797" alt="image" src="https://github.com/user-attachments/assets/ba16d669-75af-4e89-91c5-f68f6f4d8f86" />
+<img width="1438" height="807" alt="image" src="https://github.com/user-attachments/assets/2f22b8c4-527c-4961-aa30-fb2aa33d38d1" />
+<img width="1437" height="792" alt="image" src="https://github.com/user-attachments/assets/6f6552fc-e262-4a88-bd90-b8354a36345d" />
+<img width="1436" height="794" alt="image" src="https://github.com/user-attachments/assets/5c9b7931-4c39-4a5c-99e7-b24b09f1927d" />
 
 ---
 
